@@ -14,5 +14,5 @@ git add .
 git commit -m "Primeiro commit"
 git branch -M main
 # Substitua o URL abaixo pelo URL do seu próprio repositório
-git remote add origin https://github.com/wagnerguedes/termo-contrato.git
+git remote add origin https://github.com/wagnerguedes/lgpdradiologia
 git push -u origin main

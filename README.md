@@ -1,6 +1,6 @@
 # Crie um novo projeto React
-npx create-react-app termo-contrato
-cd termo-contrato
+npx create-react-app lgpdradiologia
+cd lgpdradiologia
 
 # Instale as dependências necessárias do shadcn/ui
 npm install @/components/ui
